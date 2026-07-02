@@ -16,7 +16,3 @@ You need [Node.js](https://nodejs.org/) v20.19.0 or higher and a [Base44 account
 - [Base44 Documentation](https://docs.base44.com)
 - [Base44 SDK Reference](https://docs.base44.com/developers/references/sdk)
 - [Base44 CLI Overview](https://docs.base44.com/developers/references/cli/get-started/overview)
-
-## License
-
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
